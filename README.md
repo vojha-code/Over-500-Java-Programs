@@ -1,7 +1,7 @@
 # Learning-Java
 A package of Java codes for learning to programme in Java 
 
-More than 500 different types of programs I wrote during my Core JAVA learning.
+ I wrote over 500 different types of programs during my Core JAVA learning.
 
 ## Course Structure
 
