@@ -48,3 +48,7 @@ Sorting algorithms
 ## Java Tricks
 
 Several programmes to deal with miscellaneous java tricky programming situations  
+
+## Remote Method Invocation (RMI)
+
+A programme deals with remote method invocations
