@@ -36,10 +36,6 @@ A package of Java codes for learning to programme in Java
 14 Projects
 
 
-## Assignments
-
-A total 13 different tricky assignments for Java learners 
-
 ## Data Structure
 
 Java Matrix manipulation
@@ -54,3 +50,13 @@ Several programmes to deal with miscellaneous java tricky programming situations
 ## Remote Method Invocation (RMI)
 
 A programme deals with remote method invocations
+
+## LAB Practice
+
+Over 20 different interesting tricky programming practice
+
+Understanding how java variable and class permission scope works in a highly sophisticated way
+
+## Assignments
+
+A total 13 different tricky assignments for Java learners 
