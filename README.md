@@ -36,7 +36,7 @@ A package of Java codes for learning to programme in Java
 14 Projects
 
 
-## Data Structure
+## Data Structure and Linear Algebra
 
 Java Matrix manipulation <br>
 Linear regression (RBSA) <br>
