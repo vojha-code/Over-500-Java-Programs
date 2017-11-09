@@ -38,10 +38,10 @@ A package of Java codes for learning to programme in Java
 
 ## Data Structure
 
-Java Matrix manipulation
-Linear regression (RBSA)
-Search algorithms
-Sorting algorithms
+Java Matrix manipulation <br>
+Linear regression (RBSA) <br>
+Search algorithms <br>
+Sorting algorithms <br>
 
 ## Java Tricks
 
