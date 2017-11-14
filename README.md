@@ -1,5 +1,5 @@
 # Learning-Java
-A package of Java codes for learning to programme in Java 
+A package of Java codes for learning to programme in Java
 
  I wrote over 500 different types of programs during my Core JAVA learning.
 
